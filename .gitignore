@@ -8,5 +8,5 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+/.env/
 /info.md
-/.env
